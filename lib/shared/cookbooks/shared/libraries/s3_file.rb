@@ -1,4 +1,4 @@
-require 'aws/s3'
+#require 'aws/s3'
 
 class Chef
   class Provider
